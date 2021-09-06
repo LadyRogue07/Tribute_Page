@@ -1,0 +1,38 @@
+.image {
+    background-image: url("https://blog.gardenloversclub.com/wp-content/uploads/2019/05/Dragon-Fruit-Flowers.jpg?ezimgfmt=ng:webp/ngcb56");
+    background-size: cover;
+    background-position:center;
+    
+}
+body {
+    color: rgb(245, 245, 248);
+}
+li {
+    color: rgb(249, 249, 252);
+    font-weight: 100;
+    font-size: 50px;
+}    
+p {
+    color: white;
+    font-size: 40px;
+}
+h3 {
+    color: white;
+    font-size: 40px;
+}
+.family {
+        color:rgb(245, 245, 248);
+        font-size: 300%;
+    }
+.friends {
+        color: white;
+        font-size: 300%;
+    }
+.activities {
+        color: white;
+        font-size: 300%;
+    }
+.quotes {
+        color: white;
+        font-size: 300%;
+    }
